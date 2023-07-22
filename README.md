@@ -1,0 +1,2 @@
+# wellapi.uz
+smm api
